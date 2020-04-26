@@ -15,39 +15,6 @@ body {
 
 
 
-
-.fraction-tryout {
-    font-family: 'neue schrift';
-    src: url('neue schrift.eot');
-    src: url('neue schrift.eot') format('embedded-opentype'),
-         url('neue schrift.woff2') format('woff2'),
-         url('neue schrift.woff') format('woff'),
-         url('neue schrift.ttf') format('truetype'),
-         url('neue schrift.svg') format('svg');
-    font-weight: normal;
-    font-style: normal;
-}
-
-.fraction-tryout::-webkit-input-placeholder{
- color: black;
-font: neue schrift;}
-
-.fraction-tryout:-moz-placeholder{/*Firefox 18-*/
- color: black;
-font: neue schrift;}
-
-.fraction-tryout::-moz-placeholder{/*Firefox 19+*/
- color: black;
-font: neue schrift;}
-
-.fraction-tryout:-ms-input-placeholder{
- color: black;
-font: neue schrift;}
-
-.fraction-tryout::placeholder{
- color: black;
-font: neue schrift;}
-
 nav2{
     display: block;
     position:static;
