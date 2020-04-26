@@ -30,23 +30,23 @@ body {
 
 .fraction-tryout::-webkit-input-placeholder{
  color: black;
-font: Neue Schrift;}
+font: fraction;}
 
 .fraction-tryout:-moz-placeholder{/*Firefox 18-*/
  color: black;
-font: Neue Schrift;}
+font: fraction;}
 
 .fraction-tryout::-moz-placeholder{/*Firefox 19+*/
  color: black;
-font: Neue Schrift;}
+font: fraction;}
 
 .fraction-tryout:-ms-input-placeholder{
  color: black;
-font: Neue Schrift;}
+font: fraction;}
 
 .fraction-tryout::placeholder{
  color: black;
-font: Neue Schrift;}
+font: fraction;}
 
 nav2{
     display: block;
