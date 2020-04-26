@@ -342,6 +342,26 @@ h2{
    
 }
 
+.fraction-tryout::-webkit-input-placeholder{
+ color: black;
+font: neue schrift;}
+
+.fraction-tryout:-moz-placeholder{/*Firefox 18-*/
+ color: black;
+font: neue schrift;}
+
+.fraction-tryout::-moz-placeholder{/*Firefox 19+*/
+ color: black;
+font: neue schrift;}
+
+.fraction-tryout:-ms-input-placeholder{
+ color: black;
+font: neue schrift;}
+
+.fraction-tryout::placeholder{
+ color: black;
+font: neue schrift;}
+
 
 
 .footer{
