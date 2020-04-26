@@ -17,7 +17,7 @@ body {
 
 
 .fraction-tryout {
-    font-family: 'neue_schrift';
+    font-family: 'neue schrift';
     src: url('fraction-webfont.eot');
     src: url('fraction-webfont.eot') format('embedded-opentype'),
          url('fraction-webfont.woff2') format('woff2'),
