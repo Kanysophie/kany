@@ -29,19 +29,24 @@ body {
 }
 
 .fraction-tryout::-webkit-input-placeholder{
- color: black;}
+ color: black;
+font: Neue Schrift;}
 
 .fraction-tryout:-moz-placeholder{/*Firefox 18-*/
- color: black;}
+ color: black;
+font: Neue Schrift;}
 
 .fraction-tryout::-moz-placeholder{/*Firefox 19+*/
- color: black;}
+ color: black;
+font: Neue Schrift;}
 
 .fraction-tryout:-ms-input-placeholder{
- color: black;}
+ color: black;
+font: Neue Schrift;}
 
 .fraction-tryout::placeholder{
- color: black;}
+ color: black;
+font: Neue Schrift;}
 
 nav2{
     display: block;
