@@ -331,7 +331,7 @@ h2{
     outline: none;
     margin-bottom: 20%;
    font-display:swap;
-    src: local('neue schrift'), local('neue schrift'),
+    src: local('fraction-webfont'), local('fraction-webfont'),
   url(fraction-webfont.woff2) format('woff2'),
     url(fraction-webfont.woff) format('woff');
    
