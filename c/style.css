@@ -315,7 +315,8 @@ h2{
 
 .fractiontext {
     grid-column: 1/span 2;
-    margin-right: 50%
+    margin-right: 50%;
+    color: black;
 }
 
 .fraction-tryout {
