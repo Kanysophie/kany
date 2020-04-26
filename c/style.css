@@ -324,16 +324,16 @@ h2{
     resize: none;
     overflow: hidden;
     text-transform: uppercase;
-    font: 150%;
+    font: 150%, neue Schrift;
     color: black;
     line-height: 250%;
     border-style: none;
     outline: none;
     margin-bottom: 20%;
    font-display:swap;
-    src: local('fraction-webfont'), local('fraction-webfont'),
-  url(fraction-webfont.woff2) format('woff2'),
-    url(fraction-webfont.woff) format('woff');
+    src: local('neueschrift-webfont'), local('neueschrift-webfont'),
+  url(neueschrift-webfont.woff2) format('woff2'),
+    url(neueschrift-webfont.woff) format('woff');
    
 }
 
