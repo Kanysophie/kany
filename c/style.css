@@ -17,7 +17,7 @@ body {
 
 
 .fraction-tryout {
-    font-family: 'neue schrift';
+    font-family: 'neue_schrift';
     src: url('fraction-webfont.eot');
     src: url('fraction-webfont.eot') format('embedded-opentype'),
          url('fraction-webfont.woff2') format('woff2'),
@@ -30,23 +30,23 @@ body {
 
 .fraction-tryout::-webkit-input-placeholder{
  color: black;
-font: fraction;}
+font: neue_schrift;}
 
 .fraction-tryout:-moz-placeholder{/*Firefox 18-*/
  color: black;
-font: fraction;}
+font: neue_schrift;}
 
 .fraction-tryout::-moz-placeholder{/*Firefox 19+*/
  color: black;
-font: fraction;}
+font: neue_schrift;}
 
 .fraction-tryout:-ms-input-placeholder{
  color: black;
-font: fraction;}
+font: neue_schrift;}
 
 .fraction-tryout::placeholder{
  color: black;
-font: fraction;}
+font: neue_schrift;}
 
 nav2{
     display: block;
@@ -356,7 +356,7 @@ h2{
     resize: none;
     overflow: hidden;
     text-transform: uppercase;
-    font: 150% Neue Schrift;
+    font: 150% neue_schrift;
     color: black;
     line-height: 250%;
     border-style: none;
