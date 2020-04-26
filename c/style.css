@@ -18,12 +18,12 @@ body {
 
 .fraction-tryout {
     font-family: 'neue schrift';
-    src: url('fraction-webfont.eot');
-    src: url('fraction-webfont.eot') format('embedded-opentype'),
-         url('fraction-webfont.woff2') format('woff2'),
-         url('fraction-webfont.woff') format('woff'),
-         url('fraction-webfont.ttf') format('truetype'),
-         url('fraction-webfont.svg') format('svg');
+    src: url('neue schrift.eot');
+    src: url('neue schrift.eot') format('embedded-opentype'),
+         url('neue schrift.woff2') format('woff2'),
+         url('neue schrift.woff') format('woff'),
+         url('neue schrift.ttf') format('truetype'),
+         url('neue schrift.svg') format('svg');
     font-weight: normal;
     font-style: normal;
 }
