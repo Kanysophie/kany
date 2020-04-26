@@ -26,16 +26,22 @@ body {
          url('fraction-webfont.svg') format('svg');
     font-weight: normal;
     font-style: normal;
-
 }
 
-input, textarea {
-  -webkit-user-select: text;
-  -khtml-user-select: text;
-  -moz-user-select: text;
-  -ms-user-select: text;
-  user-select: text;
-}
+.fraction-tryout::-webkit-input-placeholder{
+ color: black;}
+
+.fraction-tryout:-moz-placeholder{/*Firefox 18-*/
+ color: black;}
+
+.fraction-tryout::-moz-placeholder{/*Firefox 19+*/
+ color: black;}
+
+.fraction-tryout:-ms-input-placeholder{
+ color: black;}
+
+.fraction-tryout::placeholder{
+ color: black;}
 
 nav2{
     display: block;
