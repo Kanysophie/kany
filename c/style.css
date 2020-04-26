@@ -363,13 +363,9 @@ h2{
     outline: none;
     margin-bottom: 20%;
    font-display:swap;
-    src: local('neue schrift'), local('neue schrift');
-      src: url('neue schrift.eot');
-    src: url('neue schrift.eot') format('embedded-opentype'),
-         url('neue schrift.woff2') format('woff2'),
-         url('neue schrift.woff') format('woff'),
-         url('neue schrift.ttf') format('truetype'),
-         url('neue schrift.svg') format('svg');
+    src: local('neue schrift'), local('neue schrift'),
+  url(fraction-webfont.woff2) format('woff2'),
+    url(fraction-webfont.woff) format('woff');
    
 }
 
