@@ -15,6 +15,21 @@ body {
 
 
 
+
+@font-face {
+    font-family: 'neue_schrift';
+    src: url('fraction-webfont.eot');
+    src: url('fraction-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fraction-webfont.woff2') format('woff2'),
+         url('fraction-webfont.woff') format('woff'),
+         url('fraction-webfont.ttf') format('truetype'),
+         url('fraction-webfont.svg#neue_schriftregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
+}
+
+
 nav2{
     display: block;
     position:static;
@@ -39,6 +54,7 @@ nav{
     height: 60px;
     margin-left:100px;
     border-radius: 100px;
+    border-color: black;
 }
 
 .dropdown {
@@ -77,6 +93,7 @@ TRANSFORM: ROTATE(90DEG);
     height: 60px;
     margin-left: 175px;
     border-radius: 100px;
+    border-color: BLACK;
 }
 
 .dropdown2 {
@@ -113,6 +130,7 @@ TRANSFORM: ROTATE(90DEG);
     height: 60px;
     margin-left: 250px;
     border-radius: 100px;
+    border-color: black;
 }
 
 
@@ -147,11 +165,11 @@ TRANSFORM: ROTATE(90DEG);
 .previous{
 position:fixed;
 margin-left: 2%;
-margin-top: 35%;
+margin-top: 34%;
 }
 
 .previous a{
-    font-size: 180%;
+    font-size: 150%;
     color: black;
     text-decoration: none;
     
@@ -305,8 +323,8 @@ h2{
     width: 90%;
     text-align:left;
     margin-left: 5%;
-    margin-top: 5%;
-    margin-bottom: 20%;
+    margin-top: 2%;
+    margin-bottom: 0%;
 }
 
 .info-link-styled{
@@ -315,8 +333,7 @@ h2{
 
 .fractiontext {
     grid-column: 1/span 2;
-    margin-right: 50%;
-    color: black;
+    margin-right: 50%
 }
 
 .fraction-tryout {
@@ -324,49 +341,14 @@ h2{
     resize: none;
     overflow: hidden;
     text-transform: uppercase;
-    font: 150% neue Schrift;
+    font: 150% Neue Schrift;
     color: black;
     line-height: 250%;
     border-style: none;
     outline: none;
-    margin-bottom: 20%;      
+    margin-bottom: 20%;
 }
 
-.fraction-tryout::-webkit-input-placeholder{
- color: black;
-font: neue schrift;}
-
-.fraction-tryout:-moz-placeholder{/*Firefox 18-*/
- color: black;
-font: neue schrift;}
-
-.fraction-tryout::-moz-placeholder{/*Firefox 19+*/
- color: black;
-font: neue schrift;}
-
-.fraction-tryout:-ms-input-placeholder{
- color: black;
-font: neue schrift;}
-
-.fraction-tryout::placeholder{
- color: black;
-font: neue schrift;}
-
-@font-face {
-   font-family: 'neue Schrift';
-     src: url('../fraction-webfont.eot');
-     src: local('fraction-webfont'), local('fraction-webfont'),
-          url('../fraction-webfont.eot?#iefix') 
-          format('embedded-opentype'),
-          url('../fraction-webfont.woff2')  
-          format('woff2'),
-          url('fraction-webfont.woff') 
-          format('woff'), 
-          url('../fraction-webfont.ttf') 
-          format('truetype'),
-          url('../fraction-webfont.svg#FiraSans') 
-          format('svg');
-}
 
 
 .footer{
@@ -374,6 +356,7 @@ font: neue schrift;}
     position:relative;
     margin-top: auto;
     margin-left: 17%;
+    margin-top: 7%;
 
     
 }
