@@ -345,27 +345,27 @@ h2{
 
 .fraction-tryout::-webkit-input-placeholder {
     color: black;
- font: 150% NeueSchrift-Regular;
+ font: NeueSchrift-Regular;
 }
 
 .fraction-tryout:-moz-placeholder { /*Firefox 18- */
     color: black;
- font: 150% NeueSchrift-Regular;
+ font: NeueSchrift-Regular;
 }
 
 .fraction-tryout::-moz-placeholder { /*Firefox 19+ */
     color: black;
- font: 150% NeueSchrift-Regular;
+ font: NeueSchrift-Regular;
 }
 
 .fraction-tryout:-ms-input-placeholder {
     color: black;
- font: 150% NeueSchrift-Regular;
+ font: NeueSchrift-Regular;
 }
 
 .fraction-tryout::placeholder {
     color: black;
- font: 150% NeueSchrift-Regular;
+ font: NeueSchrift-Regular;
 }
 
 .fraction-tryout {
