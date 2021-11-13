@@ -17,7 +17,7 @@ body {
 
 
 @font-face {
-    font-family: 'verdana', 'neue_schrift';
+    font-family: 'neue_schrift';
     src: url('fraction-webfont.eot');
     src: url('fraction-webfont.eot?#iefix') format('embedded-opentype'),
          url('fraction-webfont.woff2') format('woff2'),
@@ -340,7 +340,7 @@ h2{
     resize: none;
     overflow: hidden;
     text-transform: uppercase;
-    font: 150% Neue Schrift;
+    font: 150% Fraction;
     color: black;
     line-height: 250%;
     border-style: none;
