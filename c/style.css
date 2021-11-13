@@ -21,6 +21,11 @@ body {
          url('fraction-webfont-webfont.woff') format('woff'),
          url('fraction-webfont-webfont.ttf') format('truetype'),
          url('fraction-webfont-webfont.svg#neue_schriftregular') format('svg');
+      -webkit-user-select: text;
+  -khtml-user-select: text;
+  -moz-user-select: text;
+  -ms-user-select: text;
+  user-select: text;
 }
 
 
