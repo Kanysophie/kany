@@ -368,6 +368,13 @@ h2{
  font: 150% NeueSchrift-Regular;
 }
 
+.fraction-tryout {
+  -webkit-user-select: text;
+  -khtml-user-select: text;
+  -moz-user-select: text;
+  -ms-user-select: text;
+  user-select: text;
+}
 
 
 .footer{
