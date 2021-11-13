@@ -26,6 +26,7 @@ body {
          url('fraction-webfont.svg#neue_schriftregular') format('svg');
     font-weight: normal;
     font-style: normal;
+
 }
 
 
@@ -339,18 +340,13 @@ h2{
     display: block;
     resize: none;
     overflow: hidden;
-    text-transform: uppercase;
-    font: 150% fraction-webfont.woff ;
+    text-transform: ;
+    font: 150% neue_schrift;
     color: black;
     line-height: 250%;
     border-style: none;
     outline: none;
     margin-bottom: 20%;
-  -webkit-user-select: text;
-  -khtml-user-select: text;
-  -moz-user-select: text;
-  -ms-user-select: text;
-  user-select: text;
 }
 
 
