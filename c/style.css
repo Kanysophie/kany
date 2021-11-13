@@ -340,7 +340,7 @@ h2{
     display: block;
     resize: none;
     overflow: hidden;
-    text-transform: uppercases;
+    text-transform: uppercase;
     font: 150% Neue Schrift;
     color: black;
     line-height: 250%;
