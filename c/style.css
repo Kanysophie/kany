@@ -340,7 +340,7 @@ h2{
     resize: none;
     overflow: hidden;
     text-transform: uppercase;
-    font: 150% Fraction;
+    font: 150% fraction-webfont.woff ;
     color: black;
     line-height: 250%;
     border-style: none;
