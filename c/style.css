@@ -17,15 +17,15 @@ body {
 
 
 @font-face {
-    font-family: 'Neue Schrift';
-    src: url('fraction-webfont.eot');
-    src: url('fraction-webfont.eot?#iefix') format('embedded-opentype'),
-         url('fraction-webfont.woff2') format('woff2'),
-         url('fraction-webfont.woff') format('woff'),
-         url('fraction-webfont.ttf') format('truetype'),
-         url('fraction-webfont.svg#neue_schriftregular') format('svg');
+
+@font-face {
+    font-family: 'neue_schriftregular';
+    src: url('fraction-webfont-webfont.woff2') format('woff2'),
+         url('fraction-webfont-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
+}
+
 
 }
 
