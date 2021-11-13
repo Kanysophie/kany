@@ -341,7 +341,8 @@ h2{
     resize: none;
     overflow: hidden;
     text-transform: uppercase;
-    font: 150% arial;
+    font: sans-serif;
+    font-size: 150%;
     color: black;
     line-height: 250%;
     border-style: none;
