@@ -17,7 +17,7 @@ body {
 
 
 @font-face {
-    font-family: 'neue_schrift', 'fraction';
+    font-family: 'verdana', 'neue_schrift';
     src: url('fraction-webfont.eot');
     src: url('fraction-webfont.eot?#iefix') format('embedded-opentype'),
          url('fraction-webfont.woff2') format('woff2'),
