@@ -14,10 +14,6 @@ body {
 }
 
 
-
-
-@font-face {
-
 @font-face {
     font-family: 'neue_schriftregular';
     src: url('fraction-webfont-webfont.woff2') format('woff2'),
@@ -341,7 +337,7 @@ h2{
     resize: none;
     overflow: hidden;
     text-transform: uppercase;
-    font: sans-serif;
+    font: 'neue_schriftregular';
     font-size: 150%;
     color: black;
     line-height: 250%;
