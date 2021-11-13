@@ -337,7 +337,7 @@ h2{
     resize: none;
     overflow: hidden;
     text-transform: uppercase;
-    font-family: 'neue_schriftregular';
+    font-family: "neue_schriftregular", "Lato" ;
     font-size: 150%;
     color: black;
     line-height: 250%;
