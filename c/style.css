@@ -14,14 +14,18 @@ body {
 }
 
 
+
+
 @font-face {
     font-family: 'neue_schriftregular';
-    src: url('fraction-webfont-webfont.woff2') format('woff2'),
-         url('fraction-webfont-webfont.woff') format('woff');
+    src: url('fraction-webfont.eot');
+    src: url('fraction-webfont.eot?#iefix') format('embedded-opentype'),
+         url('fraction-webfont.woff2') format('woff2'),
+         url('fraction-webfont.woff') format('woff'),
+         url('fraction-webfont.ttf') format('truetype'),
+         url('fraction-webfont.svg#neue_schriftregular') format('svg');
     font-weight: normal;
     font-style: normal;
-}
-
 
 }
 
@@ -337,8 +341,7 @@ h2{
     resize: none;
     overflow: hidden;
     text-transform: uppercase;
-    font-family: "neue_schrift";
-    font-size: 150%;
+    font: 150% neue_schrift;
     color: black;
     line-height: 250%;
     border-style: none;
