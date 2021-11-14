@@ -335,7 +335,7 @@ h2{
     resize: none;
     overflow: hidden;
     text-transform: uppercase;
-    font: 150% NeueSchrift_Regular;
+    font: 150% neue_SchriftRegular;
     color: black;
     line-height: 250%;
     border-style: none;
@@ -344,27 +344,27 @@ h2{
 
 .fraction-tryout::-webkit-input-placeholder {
     color: black;
- font: NeueSchrift_Regular;
+ font: Neue_SchriftRegular;
 }
 
 .fraction-tryout:-moz-placeholder { /*Firefox 18- */
     color: black;
- font: NeueSchrift_Regular;
+ font: Neue_SchriftRegular;
 }
 
 .fraction-tryout::-moz-placeholder { /*Firefox 19+ */
     color: black;
- font: NeueSchrift_Regular;
+ font: Neue_SchriftRegular;
 }
 
 .fraction-tryout:-ms-input-placeholder {
     color: black;
- font: NeueSchrift_Regular;
+ font: Neue_SchriftRegular;
 }
 
 .fraction-tryout::placeholder {
     color: black;
- font: NeueSchrift_Regular;
+ font: Neue_SchriftRegular;
 }
 
 .fraction-tryout {
